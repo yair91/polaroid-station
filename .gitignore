@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Nunca subir al repositorio
+infra/.stack.env
+infra/*.pem
+*.pem
+.env
+
+salida/
+scripts/sample_photos/
+*.zip
